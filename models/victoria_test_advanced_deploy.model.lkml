@@ -1,4 +1,5 @@
 connection: "thelook"
+label: "Victoria Test Advanced Deploy"
 
 # include all the views
 include: "/views/**/*.view"
